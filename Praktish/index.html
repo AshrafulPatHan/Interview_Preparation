@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Praktisch</title>
+   <!-- Link css -->
+    <link rel="stylesheet" href="./style/style.css">
+</head>
+<body>
+   <div class="main">
+      <h1 class="HW">Hello World</h1>
+      <button onclick="handelClickBtn()"  class="btn_1">click</button>
+         <div id="Tst"></div>
+      <div>
+         <input type="text" name="text" id="InText">
+         <button id="comment">comment</button>
+         <p id="commentText">Their is The comment</p>
+      </div>
+   </div>
+
+   <script>
+      // button clicking
+   function handelClickBtn() {
+      let Status = document.getElementById('Tst');
+      Status.innerHTML=`
+      <p class="js_Text">Howrah</p>
+      `
+      alert("card is add")
+
+   }
+   // input field
+   document.getElementById('comment').addEventListener('click',function(){
+      let input = document.getElementById('InText');
+      let inputText = input.value;
+      let comment = document.getElementById('commentText');
+      comment.innerText = inputText;
+      input.value = ''
+   })
+   </script>
+</body>
+</html>

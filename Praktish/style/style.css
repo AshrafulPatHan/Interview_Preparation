@@ -1,0 +1,77 @@
+*{
+   margin: 0px;
+   padding: 0px;
+   background-color: rgb(34, 33, 33);
+   font-family:Montserrat ;
+   color: #ddcfcf;
+}
+
+
+@font-face{
+   font-family: 'Poppins';
+   src: url('../asset/Poppins-Light.ttf') format('truetype'); 
+}
+@font-face{
+   font-family: 'Montserrat';
+   src: url('../asset/Montserrat-Thin.ttf') format('truetype'); 
+}
+
+
+/* home page */
+.main{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 10px;
+   margin-top: 20px;
+}
+
+/* button */
+.btn_1{
+   width: 100px;
+   padding: 10px;
+   border-radius: 30px;
+   background-color: rgb(54, 52, 52);
+}
+
+.HW{
+   font-size: 10vw;
+   text-align: center;
+}
+
+/* card */
+.js_Text{
+   font-size: 5vw;
+   font-weight: 700;
+   color: #7749f8;
+   padding: 30vw;
+   background-color: aqua;
+}
+
+/* Input field */
+
+#InText{
+   background-color: rgb(37, 37, 34);
+   width: 40vw;
+   padding: 10px;
+   border-radius: 10px;
+   border: 2px solid rgb(107, 95, 95);
+}
+
+#comment{
+   width: 100px;
+   padding: 10px;
+   border-radius: 30px;
+   background-color: rgb(54, 52, 52);
+   margin-left: 1vw;
+}
+
+#commentText{
+   font-size: 4vw;
+   font-weight: bold;
+   text-align: center;
+   margin-top: 30px;
+}
+
+
+
