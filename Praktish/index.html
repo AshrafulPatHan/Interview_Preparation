@@ -4,6 +4,8 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>Praktisch</title>
+   <!-- Link bootstrap -->
+   <link rel="stylesheet" href="./style/bootstrap-5.3.3-dist/css/bootstrap.min.css">
    <!-- Link css -->
     <link rel="stylesheet" href="./style/style.css">
 </head>
@@ -15,27 +17,15 @@
       <div>
          <input type="text" name="text" id="InText">
          <button id="comment">comment</button>
-         <p id="commentText">Their is The comment</p>
+         <p id="commentText" >Their is The comment</p>
+         <p class="fs-1 text-center" >bootstrap</p>
       </div>
+      
    </div>
-
-   <script>
-      // button clicking
-   function handelClickBtn() {
-      let Status = document.getElementById('Tst');
-      Status.innerHTML=`
-      <p class="js_Text">Howrah</p>
-      `
-      alert("card is add")
-   }
-   // input field
-   document.getElementById('comment').addEventListener('click',function(){
-      let input = document.getElementById('InText');
-      let inputText = input.value;
-      let comment = document.getElementById('commentText');
-      comment.innerText = inputText;
-      input.value = ''
-   })
-   </script>
+    <!-- Link Bootstrap script -->
+    <script src="./style/bootstrap-5.3.3-dist/js/bootstrap.bundle.js"></script>
+    <script src="./style/bootstrap-5.3.3-dist/js/bootstrap.min.js"></script>
+    <!-- Link javascript -->
+     <script src="./javascript/main.js"></script>
 </body>
 </html>
