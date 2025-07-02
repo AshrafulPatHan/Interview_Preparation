@@ -1,2 +1,33 @@
 
+/* global */
+*{
+    background-color: black;
+}
+
+/* css variable */
+:root{
+    --color: #f1eaea;
+}
+
+h2{
+    color: var(--color);
+}
+
+p{
+    color: var(--color);
+}
+
+a{
+    color: var(--color);
+}
+
+a:hover {
+  color: red;
+}
+
+p::first-line {
+  font-weight: bold;
+  color: red;
+}
+
 
