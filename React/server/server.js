@@ -8,6 +8,7 @@ const PORT = process.env.PORT || 5000;
 
 app.use(express.json());
 app.use(cors());
+
 // For parsing application/x-www-form-urlencoded
 app.use(bodyParser.urlencoded({ extended: true })); 
 
@@ -30,7 +31,7 @@ app.post("/registration", (req, res) => {
             return res.status(500).send("Error inserting data.");
         }
         console.log("1 record inserted.");
-        res.status(201).send("Data inserted successfully.");
+        res.status(201).json({ message: "Data inserted successfully." });
     });
 });
 
