@@ -3,9 +3,11 @@ import { TextField } from "@mui/material";
 
 const Login = () => {
     return (
-        <div>
-            <TextField id="outlined-basic" label="Outlined" variant="outlined" />
-            <TextField id="outlined-basic" label="Outlined" variant="outlined" />
+        <div className="flex flex-col items-center gap-2 bg-blue-200 p-6 rounded-2xl ">
+            <TextField id="outlined-basic" label="Name" variant="outlined" />
+            <TextField id="outlined-basic" label="Password" variant="outlined" />
+            <button>Login</button>
+
         </div>
     );
 };
