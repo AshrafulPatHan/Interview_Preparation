@@ -1,5 +1,8 @@
 import { TextField } from "@mui/material";
 import { useState } from "react";
+import Cookies from 'js-cookie';
+
+
 
 const Login = () => {
   const [Name, setName] = useState("");
@@ -25,6 +28,10 @@ const Login = () => {
         console.log("✅ Login Success:", result);
         alert("Login Success!");
         // 👉 এখানে টোকেন save বা রিডাইরেক্ট করতে পারো
+        Cookies.set('name', Name, { expires: 7 });
+        Cookies.set('password', Password, { expires: 7 });
+        console.log(Cookies.get('name'));
+        
       } else {
         console.warn("❌ Login failed:", result.message);
         alert(result.message);
