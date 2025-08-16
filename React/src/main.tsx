@@ -5,6 +5,7 @@ import App from "./App";
 import Data from "./components/props/Data";
 import Login from "./page/auth/sql/Login";
 import Registration from "./page/auth/sql/registration";
+import Calculate from "./page/calculate/Calculate";
 
 const root = document.getElementById("root") as HTMLElement;
 
@@ -14,6 +15,7 @@ ReactDOM.createRoot(root).render(
       <Route path="/" element={<App />} />
       <Route path="/props" element={<Data />} />
       <Route path="/sql/login" element={<Login />} />
+      <Route path="/calculate" element={<Calculate />} />
       <Route path="/sql/registration" element={<Registration />} />
     </Routes>
   </BrowserRouter>
