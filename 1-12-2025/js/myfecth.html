@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>google fetch</title>
+</head>
+
+<body>
+    <h3>Api data</h3>
+    <div id="data-container"></div>
+
+    <script>
+        const dataContainer = document.getElementById('data-container');
+        const apiUrl = 'https://jsonplaceholder.typicode.com/posts';
+
+        async function FecthData() {
+            try { 
+                const response = await fetch(`${apiUrl}`)
+
+                if (!response) {
+                    dataContainer.innerHTML = `<p>faild to load data</p>`
+                }
+
+                const data = await response.json();
+                console.log(data);
+                
+                
+                // dataContainer.innerHTML = data;
+
+                data.forEach(item =>{
+                    const itemElement = document.createElement('div');
+                    itemElement.innerHTML = `
+                    <h2>${item.title}</h2>
+                    <p>${item.body}</p>
+                    `
+                    dataContainer.appendChild(itemElement);
+                })
+
+            } catch (error) {
+                console.log(error);
+                dataContainer.innerHTML = '<p>Failed to load data.</p>';
+            }
+        }FecthData()
+
+    </script>
+</body>
+
+</html>
