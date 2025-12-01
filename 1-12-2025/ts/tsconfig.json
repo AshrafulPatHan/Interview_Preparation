@@ -1,0 +1,13 @@
+{
+  "exclude": ["**/*.js"]
+}
+
+
+
+// {
+//   "compilerOptions": {
+//     "outDir": "./dist", 
+//     "rootDir": "./",
+//     "allowJs": false
+//   }
+// }

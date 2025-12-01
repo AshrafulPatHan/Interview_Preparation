@@ -47,7 +47,8 @@
                 }
 
                 const result = await response.json();
-                document.getElementById('responseMessage').innerText = 'Data submitted successfully! Response: ' + JSON.stringify(result);
+                document.getElementById('responseMessage').innerText = 'Data submitted successfully! Response: ' + JSON.stringify(result); // return the text
+                // document.getElementById('responseMessage').innerText = 'Data submitted successfully! Response: ' + result; // return the object,object
                 console.log('API Response:', result);
 
             } catch (error) {

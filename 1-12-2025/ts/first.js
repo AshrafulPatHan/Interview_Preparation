@@ -1,5 +1,3 @@
 console.log("hello world");
-
-let _name:string = "ashraful";
-
+var _name = "ashraful";
 console.log(_name);
