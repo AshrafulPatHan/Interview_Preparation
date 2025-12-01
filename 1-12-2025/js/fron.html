@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Form</title>
+</head>
+
+<body>
+    <form id="myForm">
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" rows="4" cols="50"></textarea><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+
+    <script>
+        // script
+        document.addEventListener('DOMContentLoaded', function () {
+            const myForm = document.getElementById('myForm');
+
+            myForm.addEventListener('submit', function (event) {
+                event.preventDefault(); // Prevent the default form submission
+
+                // Get form values
+                const name = document.getElementById('name').value;
+                const email = document.getElementById('email').value;
+                const message = document.getElementById('message').value;
+
+                // Basic validation example
+                if (name === '' || email === '') {
+                    alert('Name and Email are required fields!');
+                    return; // Stop further execution
+                }
+
+                // You can add more complex validation here
+                // For example, checking email format with a regular expression
+
+                // Process the form data (e.g., send it to a server using Fetch API or XMLHttpRequest)
+                console.log('Form Submitted!');
+                console.log('Name:', name);
+                console.log('Email:', email);
+                console.log('Message:', message);
+
+                // Optionally, clear the form or display a success message
+                myForm.reset();
+                alert('Form submitted successfully!');
+            });
+        });
+    </script>
+</body>
+
+</html>
