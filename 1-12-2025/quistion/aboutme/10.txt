@@ -1,0 +1,5 @@
+Hello! I’m Md Wahid Rahman, a passionate MERN Stack Developer and Competitive Programmer. After earning my BSc in Computer Science and Engineering from Bangladesh Army University of Science and Technology in 2023, I have been actively exploring the dynamic tech industry.
+
+My expertise now revolves around the MERN stack, where I leverage MongoDB, Express.js, React.js, and Node.js to create dynamic, responsive, and scalable web applications. I also bring robust front-end development skills in HTML, CSS, and JavaScript, along with back-end experience in PHP and MySQL from earlier projects. Beyond web development, I have hands-on experience building desktop applications using C# .NET Windows Forms (WinForms) App.
+
+I thrive on solving complex problems, a mindset honed through my background in competitive programming. My commitment to continuous learning ensures I stay at the forefront of the ever-evolving tech landscape. I am dedicated to delivering innovative solutions that balance functionality, scalability, and user experience.

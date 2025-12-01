@@ -1,0 +1,30 @@
+Hi, I’m Maimunah Tabassum. I’m a Frontend Developer dedicated to building responsive, high-quality web experiences. While my main focus is frontend development, I also work with backend technologies and am actively strengthening my skills to grow into a confident full-stack developer. I’m passionate about exploring new tools and continuously improving my craft.
+
+Technical Expertise
+
+* Proficient in HTML, CSS, JavaScript, and React
+* Comfortable using Tailwind CSS and modern frontend libraries
+* Experienced with Firebase and MongoDB for backend and database solutions
+* Learning Node.js and Express.js to expand my full-stack capabilities
+
+Career Achievements
+
+* Completed multiple real-world projects with a focus on clean, maintainable code
+
+* Ensured responsive design and optimized performance across device
+
+Goals
+
+* Deliver clean, maintainable code that improves user experience and performance
+
+* Collaborate effectively with teams to translate ideas into functional, polished products
+
+* Stay current with modern web development trends to bring innovative solutions
+
+* Adapt quickly to project needs and contribute to both frontend and backend tasks
+
+Contact Information
+
+✉️ maimuna.tabr@gmail.com
+
+📱 +8801736788394

@@ -1,0 +1,25 @@
+I build Modern, Scalable, and Intelligent Systems.
+
+I am a Software Architect and Full-Stack Developer focused on transforming ideas into product-grade digital platforms. My philosophy is simple: Code That Works Smoothly —merging design clarity with engineering depth to create systems that adapt, grow, and enhance human creativity.
+
+
+# Core Focus
+
+I specialize in three core pillars:
+
+
+🌐 High-Performance Web Systems: Building full-stack applications with an emphasis on speed and clean architecture. Highly skilled in Svelte 5, React, Node.js, SaaS/API design, and serverless deployment.
+
+📱 Cross-Platform Mobility: Delivering beautiful, reliable, and high-performance mobile and web applications using Flutter & Dart.
+
+🛠️ Intelligent Automation: Crafting custom tools, AI-enhanced workflows, browser extensions, and specialized scripts (Puppeteer, Python) that automate meaningful tasks and run efficiently at scale.
+
+
+# Architecture & Expertise
+
+I thrive on leading projects from idea to deployment, ensuring robust, scalable architecture and exceptional user experiences.
+
+
+Let’s Build What’s Next. 🤙
+
+If you are looking for a partner to build a meaningful, modern, and high-quality system—whether it’s a web platform, a cross-platform app, or an intelligent automation tool—feel free to connect.

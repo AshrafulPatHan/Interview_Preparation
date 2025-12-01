@@ -1,0 +1,9 @@
+I’m a passionate MERN Stack Web Developer who loves turning ideas into interactive, user-friendly digital experiences. I specialize in building modern, responsive, and scalable web applications using MongoDB, Express.js, React, and Node.js.
+
+I enjoy working across the full stack — from designing clean UI/UX with React to crafting robust backend APIs and database architectures. My focus is always on writing clean, maintainable code and delivering real-world solutions that make an impact.
+
+🔹 Tech Stack: JavaScript (ES6+), React.js, Node.js, Express.js, MongoDB, Firebase, REST API, JWT Authentication, and Tailwind CSS
+🔹 Strengths: Problem-solving, teamwork, responsive design, and continuous learning
+🔹 Goal: To contribute to meaningful projects that combine creativity, performance, and functionality
+
+When I’m not coding, I love exploring new technologies, improving my skills, and building side projects that challenge me to grow as a develope

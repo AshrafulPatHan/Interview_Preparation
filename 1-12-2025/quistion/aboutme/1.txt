@@ -1,0 +1,14 @@
+ 
+MD. Amdad Islam
+Full-Stack Developer (In Progress) | MERN Stack Enthusiast
+
+I am a passionate and highly motivated Full-Stack Developer (in progress) with a growing expertise in building clean, modern, and responsive web applications. My journey began with mastering the fundamentals of HTML, CSS, and JavaScript, and I have strengthened my front-end development skills with Tailwind CSS, creating visually engaging and user-friendly interfaces.
+
+Currently, I am advancing my knowledge in the MERN Stack (MongoDB, Express.js, React.js, Node.js) to develop scalable, full-stack solutions. I focus on writing clean, maintainable code while transforming real-world ideas into functional, polished projects.
+
+🔹 Core Skills
+
+Frontend Development: HTML, CSS, Tailwind CSS, JavaScript
+Backend Development: Node.js, Express.js
+Database Management: MongoDB
+Problem-Solving: Building personal projects to improve logic, efficiency, and real-world application

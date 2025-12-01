@@ -1,0 +1,25 @@
+Experienced Front-End Developer specializing in responsive, user-friendly web applications and scalable solutions.
+
+Technical Expertise:
+
+• Proficient in HTML, CSS, JavaScript, and React for building modern web interfaces.
+• Skilled in back-end technologies including Node.js, Express.js, and MongoDB.
+• Hands-on experience with Firebase Authentication and JWT for secure user management.
+• Familiar with Next.js for server-side rendering and optimized performance.
+• Expertise in using version control systems like Git and GitHub.
+
+Career Achievements:
+
+• Successfully deployed 10+ responsive web applications, including dynamic e-commerce platforms and Q&A systems.
+
+Passion and Goals:
+
+• Passionate about crafting intuitive, scalable, and secure web solutions.
+• Excited to tackle real-world challenges through creative problem-solving and cutting-edge technologies.
+• Committed to continuous learning and growth in modern web development practices.
+
+Let's connect to build impactful digital experiences!
+
+Contact: Email: rashedjaman768@gmail.com
+GitHub: https://github.com/mrashed21
+WhatsApp: +8801781131905

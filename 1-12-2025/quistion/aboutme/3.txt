@@ -1,0 +1,16 @@
+Hello! My name is Ridoy Mojumder, and I am a junior Front-end Developer currently studying for a BSc in Engineering in Computer Science and Engineering (CSE).
+
+Over the past year, I have dedicated myself to web development, discovering a deep passion for coding. In addition to my front-end work, I have also spent the last three months working with Django, expanding my skills in back-end development. Recently, I completed the "Web Development with Python Level-4" course under NSDA, further solidifying my expertise.
+
+Web development is more than just a career choice for me—it's a passion. I find great joy in creating and refining web applications, and I am excited to pursue this path professionally. I enjoy solving complex problems and creating user-friendly, visually appealing web experiences. The continuous learning and innovation in web development keep me motivated and inspired.
+
+In my journey, I have worked on several projects that have enhanced my understanding of both front-end and back-end technologies. I am proficient in HTML, CSS, JavaScript, and Django, and I am always eager to learn new frameworks and tools to stay updated with the latest industry trends.
+
+My Top Skills: React.js, Firebase, Responsive Web Design, Git/GitHub, MongoDB, JavaScript, Web Development, Tailwind CSS, CSS, HTML5, Django
+
+Mission & Vision:
+🌟 Mission: To become a proficient MERN stack developer and create impactful web applications that solve real-world problems.
+🚀 Vision: To integrate machine learning with web development, pushing the boundaries of technology and innovation.
+
+I am looking forward to connecting with like-minded professionals and exploring opportunities to contribute to innovative projects. Let's connect and discuss how we can collaborate to create exceptional web experiences.
+
